@@ -13,6 +13,7 @@ for (let i=0; i < 20;i++)
     //agregando el objeto {estudiante} al arreglo [estudiantes]
     senadores.push(senador)
 }
+console.log(senadores)
 
 function filtrarMujeres(senadores,callback){
     setTimeout(function(){        
